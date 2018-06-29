@@ -1,0 +1,8 @@
+.card {
+    width: 25%;
+    height: auto;
+}
+
+.cardCont {
+    justify-content: center;
+}
